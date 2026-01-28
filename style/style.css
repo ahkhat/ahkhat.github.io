@@ -3219,6 +3219,9 @@ a {
 }
 
 .wonder-noise-texture {
+  display: none;
+  /* Original noise texture removed for clean white background */
+  /*
   z-index: 5;
   pointer-events: none;
   background-image: url("https://cdn.prod.website-files.com/6892c589ccd55f032c2d1b24/6894bc23f7d60a5167ec5139_a66a6f14ee6279376df62fade42e99e3_Noise%20%26%20Texture.png");
@@ -3226,6 +3229,7 @@ a {
   background-size: auto;
   position: absolute;
   inset: 0%;
+  */
 }
 
 .wonder-divider-small {
