@@ -14,113 +14,153 @@ Founder of **Pectus Games Inc.**, currently developing an independent game and o
 
 ---
 
-## Experience
+## Work Experience
 
-**Pectus Games** | Founder & Lead Software Developer  
-*Nov 2025 - Present | Ottawa, Canada*
-- Developed core gameplay systems and mechanics using C#
-- Owned technical architecture, tooling, and development pipelines
-- Managed production planning and cross-disciplinary collaboration
+### Founder & Lead Software Developer
+**Pectus Games** · Full-time  
+📅 Nov 2025 - Present | 📍 Ottawa, Canada
 
-**Nyan Heroes** | Gameplay Programmer  
-*Nov 2022 - Sep 2023 | Singapore*
-- Developed third-person shooter game on Solana blockchain
-- Implemented NFT mechanics for in-game economic stability
-- Collaborated with international Agile teams
+Developed core game play systems and mechanics using C#. Owned technical architecture, tooling, and development pipelines. Managed production planning and cross-disciplinary collaboration.
 
-**Popcore** | Game Developer & Level Designer  
-*Sep 2021 - Sep 2022 | Berlin, Germany*
-- Created and optimized mobile game features (15% workflow improvement)
-- Participated in level design and testing for multiple game releases
-- Enhanced QA processes, reducing bug resolution time by 20%
+---
 
-**Bigpoint GmbH** | Game Developer  
-*Sep 2019 - Sep 2021 | Hamburg, Germany*
-- Designed monetization systems and gameplay improvements
-- Supported projects with over 100,000 active users
-- Delivered regular updates and new features with cross-functional teams
+### Gameplay Programmer
+**Nyan Heroes** · Contract  
+📅 Nov 2022 - Sep 2023 | 📍 Singapore
 
-**Numeric Engineering** | Software Engineer  
-*Dec 2018 - Jul 2019 | Texas, USA*
-- Built interactive Mixed Reality applications using Unity3D and C#
-- Developed realistic 3D scenarios for advanced training environments
+Developed a third-person shooter game on the Solana blockchain, implementing NFT mechanics to enhance in-game economic stability. Collaborated with international Agile teams to deliver key milestones and ensure engaging, high-quality gameplay experiences.
 
-**Microsoft** | Software Engineering Intern  
-*Jul 2017 - Sep 2017 | Istanbul, Turkiye*
-- Created Unity-based horror game prototype
-- Conducted research on interactive gaming technologies and immersive design
+---
+
+### Game Developer & Level Designer
+**Popcore** · Contract  
+📅 Sep 2021 - Sep 2022 | 📍 Berlin, Germany
+
+Created and optimized mobile game features, which improved workflow efficiency by 15%. Participated in level design and testing for multiple game releases, ensuring balanced gameplay and smooth launches. Additionally, enhanced QA processes, reducing bug resolution time by 20% and contributing to overall product quality.
+
+---
+
+### Game Developer
+**Bigpoint GmbH** · Contract  
+📅 Sep 2019 - Sep 2021 | 📍 Hamburg, Germany
+
+Designed monetization systems and gameplay improvements for large-scale online games, contributing to increased player engagement and revenue. Worked closely with cross-functional teams to deliver regular updates and new features. Supported projects with over 100,000 active users, ensuring scalability and consistent performance.
+
+---
+
+### Software Engineer
+**Numeric Engineering** · Contract  
+📅 Dec 2018 - Jul 2019 | 📍 Texas, USA
+
+Built interactive Mixed Reality applications using Unity3D and C# for advanced training environments. Developed realistic 3D scenarios tailored to industry-specific use cases, enhancing immersion and practical usability for end users.
+
+---
+
+### Software Engineering Intern
+**Microsoft** · Internship  
+📅 Jul 2017 - Sep 2017 | 📍 Istanbul, Turkiye
+
+Created a Unity-based horror game prototype, applying innovative design techniques to deliver an engaging user experience. Conducted early research on interactive gaming technologies and immersive design, which helped shape my career path in game development.
 
 ---
 
 ## Education
 
-**Algonquin College** | Post-Graduate Certificate  
-Supply Chain Management | May 2025 - Dec 2025
-
-**Algonquin College** | Post-Graduate Certificate  
-Cybersecurity and Analysis | Jan 2024 - Aug 2024
-
-**Duzce University** | Bachelor's Degree  
-Computer Engineering | Sep 2014 - Aug 2018
+### Algonquin College
+Post-Graduate Certificate · Supply Chain Management  
+📅 May 2025 - Dec 2025
 
 ---
 
-## Skills
+### Algonquin College
+Post-Graduate Certificate · Cybersecurity and Analysis  
+📅 Jan 2024 - Aug 2024
 
-**Game Development & Software Engineering**
-- Unity3D, C#, Python
+---
+
+### Duzce University
+Bachelor's Degree · Computer Engineering  
+📅 Sep 2014 - Aug 2018
+
+---
+
+## Professional Skills
+
+### Game Development & Software Engineering
+- Unity3D
+- C#
+- Python
 - Game Design & Level Design
 - AR/VR Development
 - Blockchain & NFT Integration
-- Artificial Intelligence & Machine Learning
+- Artificial Intelligence
+- Machine Learning
 - Reinforcement Learning
 - Mixed Reality Applications
 
-**Technical Tools & Technologies**
-- Visual Studio, GitHub, Git
+### Technical Tools & Technologies
+- Visual Studio
+- GitHub
+- Git
 - Agile Development
 - Cross-platform Development
 
 ---
 
-## Projects
+## Featured Projects
 
-**[Witty](https://github.com/pectus-g/theWitty)**  
-An indie open-world game featuring shopping system, dialogue options, and immersive gameplay. Built using Unity3D and C#.
-
-**[Twitter Spammer Detection](https://github.com/ahkhat/TwitterSpammerwithANN)**  
-AI project to detect and manage Twitter spam accounts using Python, NumPy, Pandas.
-
-**[Self-Driving Car with Reinforcement Learning](https://github.com/ahkhat/Self_Driving_Car)**  
-Autonomous agent navigating obstacles using Deep Q Learning. Developed with Python, NumPy, Pandas, and Torch.
-
-**[Warehouse (Mixed Reality)](https://drive.google.com/drive/folders/1EDEtbHQjdVRTqJTvdrRE_HGOumUfScaA)**  
-Mixed Reality project allowing users to interact with virtual features. Developed with Windows Mixed Reality and Unity3D.
-
-**[The Island](https://bitbucket.org/asenahazal/the-island/src/master/)**  
-Adventure survival game where players explore an isolated island. Developed with Unity3D and C#.
+### [Witty](https://github.com/pectus-g/theWitty)
+An indie open-world game featuring a shopping system, dialogue options, and immersive gameplay. Currently under development, with ongoing improvements and new features being added. Built using Unity3D and C#.
 
 ---
 
-## Publication
+### [Twitter Spammer Detection](https://github.com/ahkhat/TwitterSpammerwithANN)
+An Artificial Intelligence project designed to detect and manage Twitter spam accounts using Python, NumPy, Pandas, and Anaconda/Spider.
 
-**Detecting Fake Twitter Accounts Using Artificial Neural Networks**  
-DOI: 10.30855/AIS.2018  
+---
+
+### [Self-Driving Car with Reinforcement Learning](https://github.com/ahkhat/Self_Driving_Car)
+A Machine Learning project where an autonomous agent (a car) navigates obstacles using Deep Q Learning. Developed with Python, NumPy, Pandas, and Torch.
+
+---
+
+### [Warehouse (Mixed Reality)](https://drive.google.com/drive/folders/1EDEtbHQjdVRTqJTvdrRE_HGOumUfScaA)
+A Mixed Reality project allowing users to interact with virtual features and objects in a simulated environment. Developed with Windows Mixed Reality and Unity3D (C#).
+
+---
+
+### [The Island](https://bitbucket.org/asenahazal/the-island/src/master/)
+An adventure survival game where players explore an isolated island to collect eight fruits and escape. Developed with Unity3D and C#.
+
+---
+
+## Publication & Credentials
+
+**Detecting Fake Twitter Accounts Using Artificial Neural Networks**
+
+DOI: 10.30855/AIS.2018
+
 [View on ResearchGate](https://www.researchgate.net/publication/328103069_Detecting_Fake_Twitter_Accounts_with_using_Artificial_Neural_Networks)
 
 ---
 
-## Hobbies
+## Hobbies & Interests
 
-- 🎿 Skiing
-- 🎨 Oil Painting
-- ⚔️ Kenjutsu
+Interested in high-precision physical activities that emphasize coordination, spatial awareness, and disciplined movement.
+
+- **Skiing** - Passionate outdoor sports enthusiast
+- **Oil Painting** - Digital and traditional visual arts
+- **Kenjutsu** - Japanese sword art and martial disciplines
 
 ---
 
-## Connect
+## Get In Touch
 
-- 📧 [asenahazal@icloud.com](mailto:asenahazal@icloud.com)
-- 💼 [LinkedIn](https://linkedin.com/in/ahkhat)
-- 🐙 [GitHub](https://github.com/ahkhat)
-- 📂 [Bitbucket](https://bitbucket.org/asenahazal)
+- 📧 **Email**: [asenahazal@icloud.com](mailto:asenahazal@icloud.com)
+- 💼 **LinkedIn**: [linkedin.com/in/ahkhat](https://linkedin.com/in/ahkhat)
+- 🐙 **GitHub**: [github.com/ahkhat](https://github.com/ahkhat)
+- 📂 **Bitbucket**: [bitbucket.org/asenahazal](https://bitbucket.org/asenahazal)
+
+---
+
+*Available for work and collaboration. Let's build something great together!*
