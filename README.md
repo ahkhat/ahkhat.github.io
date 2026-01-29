@@ -51,6 +51,12 @@ Adventure and survival game built in Unity, featuring complex gameplay systems a
 
 ## Experience
 
+**Pectus Games** | Founder & Lead Software Developer  
+*Nov 2025 - Present | Ottawa, Canada*
+- Developed core game play systems and mechanics using C#
+- Owned technical architecture, tooling, and development pipelines
+- Managed production planning and cross-disciplinary collaboration
+
 **Bigpoint** | Game Production
 - Developed and maintained game systems for 100k+ active users
 - Supply chain management and optimization
