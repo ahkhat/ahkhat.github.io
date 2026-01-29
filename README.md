@@ -1,51 +1,16 @@
-# Asena Hazal
+# Asena Hazal Yilmaz
 
-**Game Developer | Creative Technologist | AI/ML Researcher**
+**Software Engineer & Game Developer | AI & AR/VR Specialist**
+
+📍 Ottawa, ON, Canada
 
 ---
 
 ## About
 
-Game developer and creative technologist with a passion for immersive storytelling and interactive experiences. Specialized in game development using Unity and C#, with deep expertise in AI/machine learning and mixed reality technologies. Experienced in building innovative solutions that push the boundaries of interactive media.
+Software engineer and game developer with over 5.5 years of experience building video game projects for PC, consoles, and VR. Work includes gameplay systems, AI-driven mechanics, animation integration, performance optimization, and managing full development pipelines from prototype to production.
 
----
-
-## Featured Projects
-
-### **Witty**
-An indie game developed in Unity, showcasing creative game design and smooth gameplay mechanics. A testament to comprehensive game development from concept to execution.
-
-### **Twitter Spammer Detection**
-AI/ML system trained to identify and classify fake Twitter accounts using artificial neural networks. Published research on detecting fake accounts using deep learning approaches.
-
-### **Self-Driving Car with Reinforcement Learning**
-Autonomous vehicle implementation using deep reinforcement learning (DQN). Demonstrates advanced machine learning techniques applied to real-world problems.
-
-### **Warehouse (Mixed Reality)**
-Immersive mixed reality experience developed with Windows Mixed Reality and Unity. Showcases advanced spatial computing and VR/MR development.
-
-### **The Island**
-Adventure and survival game built in Unity, featuring complex gameplay systems and immersive world design.
-
----
-
-## Technical Skills
-
-**Game Development**
-- Unity Engine, C#, Game Objects & Physics, UI/UX Design, Level Design
-
-**AI & Machine Learning**
-- Python, NumPy, Pandas, PyTorch
-- Deep Q-Learning, Neural Networks, Reinforcement Learning
-- Data processing and analysis
-
-**Immersive Technologies**
-- Windows Mixed Reality (WMR), VR/MR Development
-- Spatial Computing, Interactive Media
-
-**Tools & Platforms**
-- Visual Studio, Git, Game Development Pipelines
-- Data science and ML frameworks
+Founder of **Pectus Games Inc.**, currently developing an independent game and overseeing both technical development and production planning. Primary focus is on **Unity 6** and **C#**, with experience collaborating with artists, animators, and external contractors while maintaining a stable and scalable codebase.
 
 ---
 
@@ -53,47 +18,109 @@ Adventure and survival game built in Unity, featuring complex gameplay systems a
 
 **Pectus Games** | Founder & Lead Software Developer  
 *Nov 2025 - Present | Ottawa, Canada*
-- Developed core game play systems and mechanics using C#
+- Developed core gameplay systems and mechanics using C#
 - Owned technical architecture, tooling, and development pipelines
 - Managed production planning and cross-disciplinary collaboration
 
-**Bigpoint** | Game Production
-- Developed and maintained game systems for 100k+ active users
-- Supply chain management and optimization
-- Production planning and execution
+**Nyan Heroes** | Gameplay Programmer  
+*Nov 2022 - Sep 2023 | Singapore*
+- Developed third-person shooter game on Solana blockchain
+- Implemented NFT mechanics for in-game economic stability
+- Collaborated with international Agile teams
 
-**Academic & Research**
-- Published research on machine learning applications
-- Artificial neural networks for classification tasks
-- Deep learning and reinforcement learning implementation
+**Popcore** | Game Developer & Level Designer  
+*Sep 2021 - Sep 2022 | Berlin, Germany*
+- Created and optimized mobile game features (15% workflow improvement)
+- Participated in level design and testing for multiple game releases
+- Enhanced QA processes, reducing bug resolution time by 20%
+
+**Bigpoint GmbH** | Game Developer  
+*Sep 2019 - Sep 2021 | Hamburg, Germany*
+- Designed monetization systems and gameplay improvements
+- Supported projects with over 100,000 active users
+- Delivered regular updates and new features with cross-functional teams
+
+**Numeric Engineering** | Software Engineer  
+*Dec 2018 - Jul 2019 | Texas, USA*
+- Built interactive Mixed Reality applications using Unity3D and C#
+- Developed realistic 3D scenarios for advanced training environments
+
+**Microsoft** | Software Engineering Intern  
+*Jul 2017 - Sep 2017 | Istanbul, Turkiye*
+- Created Unity-based horror game prototype
+- Conducted research on interactive gaming technologies and immersive design
 
 ---
 
 ## Education
 
-**Bachelor's Degree in Computer Engineering**  
-Düzce University (2014-2018)
+**Algonquin College** | Post-Graduate Certificate  
+Supply Chain Management | May 2025 - Dec 2025
 
-**Certifications**
-- Algorism College: Data Science & Machine Learning
-- Bigpoint: Game Production & Supply Chain Management
+**Algonquin College** | Post-Graduate Certificate  
+Cybersecurity and Analysis | Jan 2024 - Aug 2024
+
+**Duzce University** | Bachelor's Degree  
+Computer Engineering | Sep 2014 - Aug 2018
 
 ---
 
-## Hobbies & Interests
+## Skills
 
-- **Skiing** - Passionate outdoor sports enthusiast
-- **Oil Painting** - Digital and traditional visual arts
-- **Kenjutsu** - Japanese sword art and martial disciplines
+**Game Development & Software Engineering**
+- Unity3D, C#, Python
+- Game Design & Level Design
+- AR/VR Development
+- Blockchain & NFT Integration
+- Artificial Intelligence & Machine Learning
+- Reinforcement Learning
+- Mixed Reality Applications
+
+**Technical Tools & Technologies**
+- Visual Studio, GitHub, Git
+- Agile Development
+- Cross-platform Development
+
+---
+
+## Projects
+
+**[Witty](https://github.com/pectus-g/theWitty)**  
+An indie open-world game featuring shopping system, dialogue options, and immersive gameplay. Built using Unity3D and C#.
+
+**[Twitter Spammer Detection](https://github.com/ahkhat/TwitterSpammerwithANN)**  
+AI project to detect and manage Twitter spam accounts using Python, NumPy, Pandas.
+
+**[Self-Driving Car with Reinforcement Learning](https://github.com/ahkhat/Self_Driving_Car)**  
+Autonomous agent navigating obstacles using Deep Q Learning. Developed with Python, NumPy, Pandas, and Torch.
+
+**[Warehouse (Mixed Reality)](https://drive.google.com/drive/folders/1EDEtbHQjdVRTqJTvdrRE_HGOumUfScaA)**  
+Mixed Reality project allowing users to interact with virtual features. Developed with Windows Mixed Reality and Unity3D.
+
+**[The Island](https://bitbucket.org/asenahazal/the-island/src/master/)**  
+Adventure survival game where players explore an isolated island. Developed with Unity3D and C#.
+
+---
+
+## Publication
+
+**Detecting Fake Twitter Accounts Using Artificial Neural Networks**  
+DOI: 10.30855/AIS.2018  
+[View on ResearchGate](https://www.researchgate.net/publication/328103069_Detecting_Fake_Twitter_Accounts_with_using_Artificial_Neural_Networks)
+
+---
+
+## Hobbies
+
+- 🎿 Skiing
+- 🎨 Oil Painting
+- ⚔️ Kenjutsu
 
 ---
 
 ## Connect
 
-- **GitHub** - [github.com/ahkhat](https://github.com/ahkhat)
-- **LinkedIn** - Professional networking and updates
-- **Portfolio** - This website showcases my work and projects
-
----
-
-*Built with vanilla JavaScript animations and modern web technologies*
+- 📧 [asenahazal@icloud.com](mailto:asenahazal@icloud.com)
+- 💼 [LinkedIn](https://linkedin.com/in/ahkhat)
+- 🐙 [GitHub](https://github.com/ahkhat)
+- 📂 [Bitbucket](https://bitbucket.org/asenahazal)
